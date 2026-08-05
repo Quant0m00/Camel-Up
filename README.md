@@ -2,7 +2,7 @@
 
 A terminal implementation of **Camel Up** — the board game originally designed at Jane Street — built with a simplified ruleset and an AI advisor that uses **Monte Carlo simulation** to estimate win probabilities and the expected value (EV) of every available bet in real time.
 
-This project was built as part of Jane Street's AMP (Applying, Mentoring, Preparing) curriculum, which provided a starter framework (class/method skeletons and a CLI game loop). I implemented the core game logic — camel movement and stacking, ticket/payout mechanics, and rank determination — and independently designed and built the AI advisor: a from-scratch Monte Carlo simulation engine that estimates outcome probabilities and computes bet EV. See [Credits](#credits) for the exact breakdown.
+This project was built as part of Jane Street's AMP (Academy of Math and Progamming) curriculum, which provided a starter framework (class/method skeletons and a CLI game loop). I implemented the core game logic — camel movement and stacking, ticket/payout mechanics, and rank determination — and independently designed and built the AI advisor: a from-scratch Monte Carlo simulation engine that estimates outcome probabilities and computes bet EV. See [Credits](#credits) for the exact breakdown.
 
 ## Overview
 
