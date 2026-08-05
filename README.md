@@ -1,4 +1,4 @@
-# Camel Up Monte Carlo Bot
+# Camel Up Bot
 
 A terminal implementation of **Camel Up** — the board game originally designed at Jane Street — built with a simplified ruleset and an AI advisor that uses **Monte Carlo simulation** to estimate win probabilities and the expected value (EV) of every available bet in real time.
 
